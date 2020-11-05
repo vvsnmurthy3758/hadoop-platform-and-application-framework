@@ -2,7 +2,7 @@
 
 - False
 
-2.Following issues may be caused by lot of small files in HDFS
+2.Following issues may be caused by lot of small files in HDFS(wrong answer)
 
 - NameNode memory usage increases significantly
 - Network load decreases
@@ -14,7 +14,7 @@
 
 4.20GB
 
-5.What is the first step in a write process from a HDFS client?
+5.What is the first step in a write process from a HDFS client?(wrong answer)
 
 - Immediately contact the NameNode
 
